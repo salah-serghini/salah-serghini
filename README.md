@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @salah-serghini
+- 👀 automation is everything!
+- 🌱 I’m currently learning  chaos
